@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe Falaschi!!
+## Olá, eu sou o Felipe Falaschi!! 👋
 
 <div>
  <a ref="https://beacons.ai/FelipeFalaschi">
